@@ -106,7 +106,7 @@ python tcp_command_tests.py
 Expected:
 - Charge @ 500 W for 2 min
 - Discharge to 20% SoC
-- Results logged to `logs/full_test.log`
+- Results logged to `logs/battery_control.log`
 
 ### C. Test Invalid Configurations
 ```bash
@@ -127,9 +127,9 @@ It sends incorrect values (like 150% SoC) and logs inverter’s clamping behavio
 ---
 
 ## 📚 Documentation & Protocol
-- The tests follow the [IW Inverter Testing Protocol](./docs/IW-Inverter_Testing_Protocol.pdf)
+- The tests follow the [IW Inverter Testing Protocol](docs/IW-Inverter%20Testing%20Protocol-160425-160348%20(1).pdf)
 - Inverter specs and register map based on:
-  - SUN2000 User Manual (see `docs/`)
+  - [SUN2000 User Manual](docs/SUN2000-(3KTL-10KTL)-M1 User Manual.pdf)
   - `Hybrid_Inverter_Registers.xltx` (Modbus reference)
 
 ---
