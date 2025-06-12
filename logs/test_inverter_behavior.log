@@ -1,0 +1,7 @@
+2025-06-12 11:50:37,292 [INFO] Waiting for connection
+2025-06-12 11:50:40,985 [INFO] Logged in as installer.
+2025-06-12 11:50:40,986 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-12 11:50:46,037 [INFO] [READ] Initial Active Power (kW) — expect 0 = 14
+2025-06-12 11:50:46,114 [INFO] [READ] Polled Active Power (kW) = 14
+2025-06-12 11:50:46,327 [INFO] [READ] Polled Active Power (kW) = 15
+2025-06-12 11:50:46,329 [INFO] Bridge stopped successfully.

@@ -1,0 +1,24 @@
+2025-06-11 15:30:10,524 [INFO] Waiting for connection
+2025-06-11 15:30:13,978 [INFO] Logged in as installer.
+2025-06-11 15:30:13,979 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-11 15:30:18,991 [INFO] === Inverter Error Status ===
+2025-06-11 15:30:19,007 [INFO] [READ] Current Fault Code = 6801
+2025-06-11 15:30:19,085 [INFO] [READ] Alarm Register 1 = []
+2025-06-11 15:30:19,167 [INFO] [READ] Alarm Register 2 = [Alarm(name='Battery abnormal', id=2068, level='Minor')]
+2025-06-11 15:30:19,238 [INFO] [READ] Alarm Register 3 = []
+2025-06-11 15:30:19,316 [INFO] [READ] Meter Status Code (0=OK) = Normal
+2025-06-11 15:30:19,395 [INFO] [READ] Grid Voltage (V) = 0.0
+2025-06-11 15:30:19,468 [INFO] [READ] Grid Frequency (Hz) = 0.0
+2025-06-11 15:30:19,469 [INFO] Bridge stopped successfully.
+2025-06-12 11:54:01,084 [INFO] Waiting for connection
+2025-06-12 11:54:05,179 [INFO] Logged in as installer.
+2025-06-12 11:54:05,181 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-12 11:54:10,198 [INFO] === Inverter Error Status ===
+2025-06-12 11:54:10,223 [INFO] [READ] Current Fault Code = 0
+2025-06-12 11:54:10,287 [INFO] [READ] Alarm Register 1 = []
+2025-06-12 11:54:10,354 [INFO] [READ] Alarm Register 2 = []
+2025-06-12 11:54:10,432 [INFO] [READ] Alarm Register 3 = []
+2025-06-12 11:54:10,509 [INFO] [READ] Meter Status Code (0=OK) = Normal
+2025-06-12 11:54:10,583 [INFO] [READ] Grid Voltage (V) = 227.1
+2025-06-12 11:54:10,648 [INFO] [READ] Grid Frequency (Hz) = 50.02
+2025-06-12 11:54:10,650 [INFO] Bridge stopped successfully.

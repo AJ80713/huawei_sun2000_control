@@ -1,0 +1,69 @@
+2025-06-11 15:18:12,239 [INFO] Waiting for connection
+2025-06-11 15:18:16,574 [INFO] Logged in as installer.
+2025-06-11 15:18:16,576 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-11 15:18:21,593 [INFO] === Live Telemetry Data ===
+2025-06-11 15:18:21,595 [INFO] → Active AC Output Power (kW): active_power
+2025-06-11 15:18:21,607 [INFO] [READ] Value = 0
+2025-06-11 15:18:21,608 [INFO] → Total DC Input Power (kW): total_dc_input_power
+2025-06-11 15:18:21,696 [INFO] [READ] Value = 2505.61
+2025-06-11 15:18:21,697 [INFO] → Grid Frequency (Hz): grid_frequency
+2025-06-11 15:18:21,796 [INFO] [READ] Value = 0.0
+2025-06-11 15:18:21,798 [INFO] → Internal Temperature (°C): internal_temperature
+2025-06-11 15:18:21,871 [INFO] [READ] Value = 0.0
+2025-06-11 15:18:21,872 [INFO] Bridge stopped successfully.
+2025-06-11 15:20:36,580 [INFO] Waiting for connection
+2025-06-11 15:20:40,220 [INFO] Logged in as installer.
+2025-06-11 15:20:40,221 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-11 15:20:45,236 [INFO] === Live Telemetry Data ===
+2025-06-11 15:20:45,237 [INFO] → Total AC Output Power (kW): active_power
+2025-06-11 15:20:45,251 [INFO] [READ] Value = 0
+2025-06-11 15:20:45,252 [INFO] → Total DC Input Power (kW): total_dc_input_power
+2025-06-11 15:20:45,338 [INFO] [READ] Value = 2505.61
+2025-06-11 15:20:45,339 [INFO] → Grid Phase A Voltage (V): grid_A_voltage
+2025-06-11 15:20:45,405 [INFO] [READ] Value = 230.3
+2025-06-11 15:20:45,407 [INFO] → Grid Phase B Voltage (V): grid_B_voltage
+2025-06-11 15:20:45,482 [INFO] [READ] Value = None
+2025-06-11 15:20:45,483 [INFO] → Grid Phase C Voltage (V): grid_C_voltage
+2025-06-11 15:20:45,548 [INFO] [READ] Value = None
+2025-06-11 15:20:45,550 [INFO] → Phase A AC Power (kW): active_grid_A_power
+2025-06-11 15:20:45,616 [INFO] [READ] Value = None
+2025-06-11 15:20:45,617 [INFO] → Phase B AC Power (kW): active_grid_B_power
+2025-06-11 15:20:45,687 [INFO] [READ] Value = None
+2025-06-11 15:20:45,689 [INFO] → Phase C AC Power (kW): active_grid_C_power
+2025-06-11 15:20:45,765 [INFO] [READ] Value = None
+2025-06-11 15:20:45,766 [INFO] → Grid Frequency (Hz): grid_frequency
+2025-06-11 15:20:45,835 [INFO] [READ] Value = 0.0
+2025-06-11 15:20:45,837 [INFO] → Power Factor (ext. meter): power_factor_external_energy_sensor
+2025-06-11 15:20:45,907 [ERROR] Exception response 131 / 0
+2025-06-11 15:20:45,908 [ERROR] Failed to read Value: Got error while reading from register 31917 with length 2: ExceptionResponse(dev_id=0, transaction_id=23, address=0, count=0, bits=[], registers=[], status=1)
+2025-06-11 15:20:45,911 [INFO] → Internal Temperature (°C): internal_temperature
+2025-06-11 15:20:45,982 [INFO] [READ] Value = 0.0
+2025-06-11 15:20:45,983 [INFO] Bridge stopped successfully.
+2025-06-12 11:49:53,451 [INFO] Waiting for connection
+2025-06-12 11:49:57,499 [INFO] Logged in as installer.
+2025-06-12 11:49:57,500 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-12 11:50:02,518 [INFO] === Live Telemetry Data ===
+2025-06-12 11:50:02,519 [INFO] → Total AC Output Power (kW): active_power
+2025-06-12 11:50:02,602 [INFO] [READ] Value = 14
+2025-06-12 11:50:02,603 [INFO] → Total DC Input Power (kW): total_dc_input_power
+2025-06-12 11:50:02,922 [INFO] [READ] Value = 2505.88
+2025-06-12 11:50:02,923 [INFO] → Grid Phase A Voltage (V): grid_A_voltage
+2025-06-12 11:50:03,087 [INFO] [READ] Value = 226.3
+2025-06-12 11:50:03,088 [INFO] → Grid Phase B Voltage (V): grid_B_voltage
+2025-06-12 11:50:03,236 [INFO] [READ] Value = None
+2025-06-12 11:50:03,237 [INFO] → Grid Phase C Voltage (V): grid_C_voltage
+2025-06-12 11:50:03,365 [INFO] [READ] Value = None
+2025-06-12 11:50:03,367 [INFO] → Phase A AC Power (kW): active_grid_A_power
+2025-06-12 11:50:03,489 [INFO] [READ] Value = None
+2025-06-12 11:50:03,490 [INFO] → Phase B AC Power (kW): active_grid_B_power
+2025-06-12 11:50:03,907 [INFO] [READ] Value = None
+2025-06-12 11:50:03,909 [INFO] → Phase C AC Power (kW): active_grid_C_power
+2025-06-12 11:50:04,090 [INFO] [READ] Value = None
+2025-06-12 11:50:04,091 [INFO] → Grid Frequency (Hz): grid_frequency
+2025-06-12 11:50:04,265 [INFO] [READ] Value = 49.99
+2025-06-12 11:50:04,266 [INFO] → Power Factor (ext. meter): power_factor_external_energy_sensor
+2025-06-12 11:50:04,434 [ERROR] Exception response 131 / 0
+2025-06-12 11:50:04,435 [ERROR] Failed to read Value: Got error while reading from register 31917 with length 2: ExceptionResponse(dev_id=0, transaction_id=23, address=0, count=0, bits=[], registers=[], status=1)
+2025-06-12 11:50:04,437 [INFO] → Internal Temperature (°C): internal_temperature
+2025-06-12 11:50:04,626 [INFO] [READ] Value = 31.8
+2025-06-12 11:50:04,627 [INFO] Bridge stopped successfully.

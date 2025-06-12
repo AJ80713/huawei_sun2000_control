@@ -1,0 +1,254 @@
+2025-06-11 15:26:56,470 [INFO] Waiting for connection
+2025-06-11 15:26:59,948 [INFO] Logged in as installer.
+2025-06-11 15:26:59,949 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-11 15:27:04,972 [INFO] === Battery Control Test ===
+2025-06-11 15:27:04,984 [INFO] [READ] Initial SoC (%) = 20.0
+2025-06-11 15:27:05,051 [INFO] [READ] Initial Storage Power (W) = 0
+2025-06-11 15:27:05,053 [INFO] → Forcing charge: 100 W for 30 s
+2025-06-11 15:27:05,123 [INFO] [SET] Target SoC for Charge = 100
+2025-06-11 15:27:05,184 [INFO] [VALIDATED] Target SoC for Charge = 100.0
+2025-06-11 15:27:05,249 [INFO] [SET] Charge Period = 0.5
+2025-06-11 15:27:05,329 [WARNING] [MISMATCH] Charge Period: expected 0.5, got 0
+2025-06-11 15:27:05,403 [INFO] [SET] Charge Power = 100
+2025-06-11 15:27:05,473 [INFO] [VALIDATED] Charge Power = 100
+2025-06-11 15:27:05,546 [INFO] [SET] Trigger Charge = 1
+2025-06-11 15:27:05,623 [INFO] [VALIDATED] Trigger Charge = Charge
+2025-06-11 15:27:05,626 [INFO] [MONITOR] Monitoring started.
+2025-06-11 15:27:05,702 [INFO] [READ] Charge Power (W) = 0
+2025-06-11 15:27:05,778 [INFO] [READ] State of Capacity = 20.0
+2025-06-11 15:27:05,854 [INFO] [READ] SoC (%) = 20.0
+2025-06-11 15:27:05,945 [INFO] [READ] Battery Charge/Discharge Power = 0
+2025-06-11 15:27:06,013 [INFO] [SET] Discharge Period (min) = 0
+2025-06-11 15:27:06,083 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-11 15:27:06,164 [INFO] [SET] Charge Power = 0
+2025-06-11 15:27:06,233 [INFO] [VALIDATED] Charge Power = 0
+2025-06-11 15:27:06,312 [INFO] [SET] Discharge Power = 0
+2025-06-11 15:27:06,388 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-11 15:27:06,463 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-11 15:27:06,547 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-11 15:27:06,548 [INFO] [MONITOR] Monitoring stopped.
+2025-06-11 15:27:06,549 [INFO] → Forcing discharge: 100 W for 30 s
+2025-06-11 15:27:06,619 [INFO] [SET] Target SoC for Discharge = 0
+2025-06-11 15:27:06,687 [INFO] [VALIDATED] Target SoC for Discharge = 0.0
+2025-06-11 15:27:06,767 [INFO] [SET] Discharge Period = 0.5
+2025-06-11 15:27:06,839 [WARNING] [MISMATCH] Discharge Period: expected 0.5, got 0
+2025-06-11 15:27:06,903 [INFO] [SET] Discharge Power = 100
+2025-06-11 15:27:06,979 [INFO] [VALIDATED] Discharge Power = 100
+2025-06-11 15:27:07,044 [INFO] [SET] Trigger Discharge = 2
+2025-06-11 15:27:07,133 [INFO] [VALIDATED] Trigger Discharge = Discharge
+2025-06-11 15:27:07,134 [INFO] [MONITOR] Monitoring started.
+2025-06-11 15:27:07,198 [INFO] [READ] Discharge Power (W) = 0
+2025-06-11 15:27:07,259 [INFO] [READ] State of Capacity = 20.0
+2025-06-11 15:27:07,332 [INFO] [READ] SoC (%) = 20.0
+2025-06-11 15:27:07,404 [INFO] [READ] Battery Charge/Discharge Power = 0
+2025-06-11 15:27:07,479 [INFO] [SET] Discharge Period (min) = 0
+2025-06-11 15:27:07,544 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-11 15:27:07,649 [INFO] [SET] Charge Power = 0
+2025-06-11 15:27:07,717 [INFO] [VALIDATED] Charge Power = 0
+2025-06-11 15:27:07,798 [INFO] [SET] Discharge Power = 0
+2025-06-11 15:27:07,872 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-11 15:27:07,949 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-11 15:27:08,012 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-11 15:27:08,014 [INFO] [MONITOR] Monitoring stopped.
+2025-06-11 15:27:08,015 [INFO] Bridge stopped successfully.
+2025-06-12 10:53:37,817 [INFO] Waiting for connection
+2025-06-12 10:53:41,649 [INFO] Logged in as installer.
+2025-06-12 10:53:41,651 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-12 10:53:46,670 [INFO] === Battery Control Test ===
+2025-06-12 10:53:46,693 [INFO] [READ] Initial SoC (%) = 22.0
+2025-06-12 10:53:46,767 [INFO] [READ] Initial Storage Power (W) = 959
+2025-06-12 10:53:46,768 [INFO] → Forcing charge: 100 W for 30 s
+2025-06-12 10:53:46,839 [INFO] [SET] Target SoC for Charge = 100
+2025-06-12 10:53:46,927 [INFO] [VALIDATED] Target SoC for Charge = 100.0
+2025-06-12 10:53:46,991 [INFO] [SET] Charge Period = 0.5
+2025-06-12 10:53:47,057 [WARNING] [MISMATCH] Charge Period: expected 0.5, got 0
+2025-06-12 10:53:47,154 [INFO] [SET] Charge Power = 100
+2025-06-12 10:53:47,227 [INFO] [VALIDATED] Charge Power = 100
+2025-06-12 10:53:47,307 [INFO] [SET] Trigger Charge = 1
+2025-06-12 10:53:47,381 [WARNING] [MISMATCH] Trigger Charge: expected 1, got Stop
+2025-06-12 10:53:47,383 [INFO] [MONITOR] Monitoring started.
+2025-06-12 10:53:47,452 [INFO] [READ] Charge Power (W) = 960
+2025-06-12 10:53:47,869 [INFO] [READ] State of Capacity = 22.0
+2025-06-12 10:53:47,944 [INFO] [READ] SoC (%) = 22.0
+2025-06-12 10:53:48,021 [INFO] [READ] Battery Charge/Discharge Power = 960
+2025-06-12 10:53:48,168 [INFO] [SET] Discharge Period (min) = 0
+2025-06-12 10:53:48,242 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-12 10:53:48,322 [INFO] [SET] Charge Power = 0
+2025-06-12 10:53:48,398 [INFO] [VALIDATED] Charge Power = 0
+2025-06-12 10:53:48,459 [INFO] [SET] Discharge Power = 0
+2025-06-12 10:53:48,528 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-12 10:53:48,757 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-12 10:53:48,834 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-12 10:53:48,835 [INFO] [MONITOR] Monitoring stopped.
+2025-06-12 10:53:48,836 [INFO] → Forcing discharge: 100 W for 30 s
+2025-06-12 10:53:48,919 [INFO] [SET] Target SoC for Discharge = 0
+2025-06-12 10:53:48,988 [INFO] [VALIDATED] Target SoC for Discharge = 0.0
+2025-06-12 10:53:49,056 [INFO] [SET] Discharge Period = 0.5
+2025-06-12 10:53:49,132 [WARNING] [MISMATCH] Discharge Period: expected 0.5, got 0
+2025-06-12 10:53:49,207 [INFO] [SET] Discharge Power = 100
+2025-06-12 10:53:49,368 [INFO] [VALIDATED] Discharge Power = 100
+2025-06-12 10:53:49,439 [INFO] [SET] Trigger Discharge = 2
+2025-06-12 10:53:49,867 [INFO] [VALIDATED] Trigger Discharge = Discharge
+2025-06-12 10:53:49,868 [INFO] [MONITOR] Monitoring started.
+2025-06-12 10:53:49,939 [INFO] [READ] Discharge Power (W) = 960
+2025-06-12 10:53:49,999 [INFO] [READ] State of Capacity = 22.0
+2025-06-12 10:53:50,069 [INFO] [READ] SoC (%) = 22.0
+2025-06-12 10:53:50,159 [INFO] [READ] Battery Charge/Discharge Power = 960
+2025-06-12 10:53:50,242 [INFO] [SET] Discharge Period (min) = 0
+2025-06-12 10:53:50,398 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-12 10:53:50,493 [INFO] [SET] Charge Power = 0
+2025-06-12 10:53:50,560 [INFO] [VALIDATED] Charge Power = 0
+2025-06-12 10:53:50,623 [INFO] [SET] Discharge Power = 0
+2025-06-12 10:53:50,685 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-12 10:53:50,758 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-12 10:53:50,824 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-12 10:53:50,825 [INFO] [MONITOR] Monitoring stopped.
+2025-06-12 10:53:50,826 [INFO] Bridge stopped successfully.
+2025-06-12 11:03:07,503 [INFO] Waiting for connection
+2025-06-12 11:03:08,895 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:03:08,899 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:03:09,912 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:03:09,914 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:03:11,916 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:03:11,918 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:03:15,938 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:03:15,939 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:05:08,513 [INFO] Waiting for connection
+2025-06-12 11:05:09,919 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:05:09,921 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:05:10,932 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:05:10,933 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:05:12,945 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:05:12,947 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:05:16,975 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:05:16,976 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:05:24,983 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:05:24,984 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:06:07,484 [INFO] Waiting for connection
+2025-06-12 11:06:08,885 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:06:08,886 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:06:09,902 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:06:09,903 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:06:11,910 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:06:11,911 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:06:15,907 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:06:15,908 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:06:23,921 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:06:23,923 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:08:37,187 [INFO] Waiting for connection
+2025-06-12 11:08:38,592 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:08:38,594 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:08:39,608 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:08:39,609 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:08:41,616 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:08:41,617 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:08:45,631 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:08:45,632 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:10:37,839 [INFO] Waiting for connection
+2025-06-12 11:10:39,225 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:10:39,227 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:10:40,233 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:10:40,235 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:10:42,240 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:10:42,241 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:10:46,266 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:10:46,267 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:10:54,278 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:10:54,279 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:08,669 [INFO] Waiting for connection
+2025-06-12 11:15:10,076 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:10,078 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:11,095 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:11,095 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:13,110 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:13,111 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:17,120 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:17,121 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:25,136 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:25,137 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:41,143 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:15:41,144 [ERROR] Giving up _do_read(...) after 6 tries (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:15:41,146 [ERROR] Connection or login failed: Failed to read register 30000 after 6 tries
+2025-06-12 11:15:41,147 [ERROR] Could not connect.
+2025-06-12 11:52:37,481 [INFO] Waiting for connection
+2025-06-12 11:52:41,400 [INFO] Logged in as installer.
+2025-06-12 11:52:41,401 [INFO] Waiting 15 seconds for inverter to stabilize...
+2025-06-12 11:52:56,421 [INFO] === Battery Control Test ===
+2025-06-12 11:52:56,553 [INFO] [READ] Initial SoC (%) = 24.0
+2025-06-12 11:52:56,625 [INFO] [READ] Initial Storage Power (W) = -13
+2025-06-12 11:52:56,692 [INFO] → Forcing charge: 100 W for 30 s
+2025-06-12 11:52:56,714 [INFO] [SET] Target SoC for Charge = 100
+2025-06-12 11:52:56,778 [INFO] [VALIDATED] Target SoC for Charge = 100.0
+2025-06-12 11:52:56,844 [INFO] [SET] Charge Period = 0.5
+2025-06-12 11:52:56,927 [WARNING] [MISMATCH] Charge Period: expected 0.5, got 0
+2025-06-12 11:52:57,147 [INFO] [SET] Charge Power = 100
+2025-06-12 11:52:57,218 [INFO] [VALIDATED] Charge Power = 100
+2025-06-12 11:52:57,278 [INFO] [SET] Trigger Charge = 1
+2025-06-12 11:52:57,348 [INFO] [VALIDATED] Trigger Charge = Charge
+2025-06-12 11:52:57,349 [INFO] [MONITOR] Monitoring started.
+2025-06-12 11:52:57,757 [INFO] [READ] Charge Power (W) = -13
+2025-06-12 11:52:57,828 [INFO] [READ] State of Capacity = 24.0
+2025-06-12 11:52:57,889 [INFO] [READ] SoC (%) = 24.0
+2025-06-12 11:52:57,954 [INFO] [READ] Battery Charge/Discharge Power = -13
+2025-06-12 11:52:58,018 [INFO] [SET] Discharge Period (min) = 0
+2025-06-12 11:52:58,117 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-12 11:52:58,186 [INFO] [SET] Charge Power = 0
+2025-06-12 11:52:58,249 [INFO] [VALIDATED] Charge Power = 0
+2025-06-12 11:52:58,314 [INFO] [SET] Discharge Power = 0
+2025-06-12 11:52:58,392 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-12 11:52:58,470 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-12 11:52:58,543 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-12 11:52:58,544 [INFO] [MONITOR] Monitoring stopped.
+2025-06-12 11:52:58,545 [INFO] → Forcing discharge: 100 W for 30 s
+2025-06-12 11:52:58,698 [INFO] [SET] Target SoC for Discharge = 0
+2025-06-12 11:52:58,767 [INFO] [VALIDATED] Target SoC for Discharge = 0.0
+2025-06-12 11:52:58,833 [INFO] [SET] Discharge Period = 0.5
+2025-06-12 11:52:58,903 [WARNING] [MISMATCH] Discharge Period: expected 0.5, got 0
+2025-06-12 11:52:58,977 [INFO] [SET] Discharge Power = 100
+2025-06-12 11:52:59,047 [INFO] [VALIDATED] Discharge Power = 100
+2025-06-12 11:52:59,124 [INFO] [SET] Trigger Discharge = 2
+2025-06-12 11:52:59,562 [INFO] [VALIDATED] Trigger Discharge = Discharge
+2025-06-12 11:52:59,563 [INFO] [MONITOR] Monitoring started.
+2025-06-12 11:52:59,629 [INFO] [READ] Discharge Power (W) = -14
+2025-06-12 11:52:59,704 [INFO] [READ] State of Capacity = 24.0
+2025-06-12 11:52:59,863 [INFO] [READ] SoC (%) = 24.0
+2025-06-12 11:52:59,924 [INFO] [READ] Battery Charge/Discharge Power = -14
+2025-06-12 11:53:00,023 [INFO] [SET] Discharge Period (min) = 0
+2025-06-12 11:53:00,233 [INFO] [VALIDATED] Discharge Period (min) = 0
+2025-06-12 11:53:00,299 [INFO] [SET] Charge Power = 0
+2025-06-12 11:53:00,362 [INFO] [VALIDATED] Charge Power = 0
+2025-06-12 11:53:00,442 [INFO] [SET] Discharge Power = 0
+2025-06-12 11:53:00,533 [INFO] [VALIDATED] Discharge Power = 0
+2025-06-12 11:53:00,608 [INFO] [SET] Stop Charge/Discharge = 0
+2025-06-12 11:53:00,687 [INFO] [VALIDATED] Stop Charge/Discharge = Stop
+2025-06-12 11:53:00,688 [INFO] [MONITOR] Monitoring stopped.
+2025-06-12 11:53:00,689 [INFO] Bridge stopped successfully.

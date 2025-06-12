@@ -1,0 +1,77 @@
+2025-06-11 15:12:21,729 [INFO] Waiting for connection
+2025-06-11 15:12:25,402 [INFO] Logged in as installer.
+2025-06-11 15:12:25,402 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-11 15:12:30,418 [INFO] === Inverter Register Map + Live Values ===
+2025-06-11 15:12:30,419 [INFO] → Instantaneous AC Output Power (kW): active_power
+2025-06-11 15:12:30,507 [INFO] [READ] Value = 0
+2025-06-11 15:12:30,508 [INFO] → Energy Produced Today (kWh): daily_yield_energy
+2025-06-11 15:12:30,574 [INFO] [READ] Value = 0.0
+2025-06-11 15:12:30,576 [INFO] → Inverter Rated Power (kW): inverter_rated_power
+2025-06-11 15:12:30,650 [ERROR] Exception response 131 / 0
+2025-06-11 15:12:30,652 [ERROR] Failed to read Value: Got error while reading from register 30362 with length 2: ExceptionResponse(dev_id=0, transaction_id=16, address=0, count=0, bits=[], registers=[], status=1)
+2025-06-11 15:12:30,653 [INFO] → Grid Voltage (V): grid_voltage
+2025-06-11 15:12:30,744 [INFO] [READ] Value = 0.0
+2025-06-11 15:12:30,745 [INFO] → Inverter Serial Number: serial_number
+2025-06-11 15:12:30,810 [INFO] [READ] Value = 102160035393
+2025-06-11 15:12:30,812 [INFO] Bridge stopped successfully.
+2025-06-12 11:27:23,246 [INFO] Waiting for connection
+2025-06-12 11:27:24,652 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:27:24,654 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:27:25,670 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:27:25,671 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:27:27,682 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:27:27,685 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:27:31,693 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:27:31,693 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:36:24,592 [INFO] Waiting for connection
+2025-06-12 11:36:25,995 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:36:25,997 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:36:27,002 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:36:27,003 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:36:29,008 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:36:29,009 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:36:33,026 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:36:33,027 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:36:41,034 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:36:41,035 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:45:30,315 [INFO] Waiting for connection
+2025-06-12 11:45:31,716 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:45:31,718 [INFO] Backing off _do_read(...) for 1.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:45:32,722 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:45:32,724 [INFO] Backing off _do_read(...) for 2.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:45:34,736 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:45:34,738 [INFO] Backing off _do_read(...) for 4.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:45:38,741 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:45:38,743 [INFO] Backing off _do_read(...) for 8.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:45:46,751 [ERROR] Modbus client is not connected to the inverter
+NoneType: None
+2025-06-12 11:45:46,752 [INFO] Backing off _do_read(...) for 16.0s (huawei_solar.exceptions.ConnectionInterruptedException: Modbus client is not connected to the inverter)
+2025-06-12 11:49:09,784 [INFO] Waiting for connection
+2025-06-12 11:49:13,601 [INFO] Logged in as installer.
+2025-06-12 11:49:13,602 [INFO] Waiting 5 seconds for inverter to stabilize...
+2025-06-12 11:49:18,622 [INFO] === Inverter Register Map + Live Values ===
+2025-06-12 11:49:18,624 [INFO] → Instantaneous AC Output Power (kW): active_power
+2025-06-12 11:49:18,638 [INFO] [READ] Value = 14
+2025-06-12 11:49:18,640 [INFO] → Energy Produced Today (kWh): daily_yield_energy
+2025-06-12 11:49:18,784 [INFO] [READ] Value = 0.02
+2025-06-12 11:49:18,786 [INFO] → Inverter Rated Power (kW): inverter_rated_power
+2025-06-12 11:49:18,880 [ERROR] Exception response 131 / 0
+2025-06-12 11:49:18,882 [ERROR] Failed to read Value: Got error while reading from register 30362 with length 2: ExceptionResponse(dev_id=0, transaction_id=16, address=0, count=0, bits=[], registers=[], status=1)
+2025-06-12 11:49:18,884 [INFO] → Grid Voltage (V): grid_voltage
+2025-06-12 11:49:18,951 [INFO] [READ] Value = 226.6
+2025-06-12 11:49:18,953 [INFO] → Inverter Serial Number: serial_number
+2025-06-12 11:49:19,016 [INFO] [READ] Value = 102160035393
+2025-06-12 11:49:19,018 [INFO] Bridge stopped successfully.
